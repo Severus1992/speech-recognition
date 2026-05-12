@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/speech-recognition.csproj" />
+  </Folder>
+</Solution>
